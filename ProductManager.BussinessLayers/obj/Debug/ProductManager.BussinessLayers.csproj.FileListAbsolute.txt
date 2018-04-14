@@ -1,0 +1,9 @@
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\bin\Debug\ProductManager.BussinessLayers.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\bin\Debug\ProductManager.BussinessLayers.pdb
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\bin\Debug\ProductManager.Datalayers.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\bin\Debug\ProductManager.Entites.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\bin\Debug\ProductManager.Datalayers.pdb
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\bin\Debug\ProductManager.Entites.pdb
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\obj\Debug\ProductManager.BussinessLayers.csprojResolveAssemblyReference.cache
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\obj\Debug\ProductManager.BussinessLayers.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.BussinessLayers\obj\Debug\ProductManager.BussinessLayers.pdb

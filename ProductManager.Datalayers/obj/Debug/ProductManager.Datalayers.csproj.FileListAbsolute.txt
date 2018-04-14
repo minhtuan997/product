@@ -1,0 +1,7 @@
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\bin\Debug\ProductManager.Datalayers.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\bin\Debug\ProductManager.Datalayers.pdb
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\obj\Debug\ProductManager.Datalayers.csprojResolveAssemblyReference.cache
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\obj\Debug\ProductManager.Datalayers.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\obj\Debug\ProductManager.Datalayers.pdb
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\bin\Debug\ProductManager.Entites.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Datalayers\bin\Debug\ProductManager.Entites.pdb

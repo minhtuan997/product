@@ -1,0 +1,5 @@
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Entites\bin\Debug\ProductManager.Entites.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Entites\bin\Debug\ProductManager.Entites.pdb
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Entites\obj\Debug\ProductManager.Entites.csprojResolveAssemblyReference.cache
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Entites\obj\Debug\ProductManager.Entites.dll
+c:\users\minht\documents\visual studio 2015\Projects\ProductManager2\ProductManager.Entites\obj\Debug\ProductManager.Entites.pdb
